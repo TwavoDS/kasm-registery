@@ -2,15 +2,15 @@
 
 const nextConfig = {
   env: {
-    name: 'Twavo Technologies',
-    description: 'My store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://kasm.twavo.be/',
-    contactUrl: 'https://kasmweb.com/support',
+    name: 'LinuxServer.io',
+    description: 'Kasm workspaces provided by LSIO expertise',
+    icon: 'https://www.linuxserver.io/user/assets/typhoon/Asset%202.svg',
+    listUrl: 'https://kasmregistry.linuxserver.io/',
+    contactUrl: 'https://discord.gg/YWrKVTn',
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: 'https://kasmregistry.linuxserver.io/1.0/',
+  basePath: '/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
