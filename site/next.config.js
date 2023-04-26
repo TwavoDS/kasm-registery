@@ -2,10 +2,10 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Twavo Technologies',
+    description: 'My store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://kasm.twavo.be/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
